@@ -1,7 +1,7 @@
 # Tripio - Your Ultimate Travel Companion
 
 ![coding](front.jpg)
-
+HHHHHH
 ## Introduction
 Welcome to Tripio, your go-to travel website that goes beyond the ordinary. With our innovative AI Travel Assistant and curated categories, Tripio is designed to make your travel experience seamless, personalized, and unforgettable.
 
